@@ -255,7 +255,7 @@ a:focus {
 .zhixin-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
+    color: #000;
     background: url(/img/微信图片_20181226193516c.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
@@ -267,7 +267,7 @@ a:focus {
 .download-section {
     width: 100%;
     padding: 50px 0;
-    color: #fff;
+    color: #000;
     background: url(/img/未标题-3.jpg) no-repeat center center scroll;
     background-color: {{ site.color.primary-dark }};
     -webkit-background-size: cover;
